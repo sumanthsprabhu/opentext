@@ -24,7 +24,7 @@ Humans typically solve a Sudoku puzzle by eliminating values that cells can have
 
 Builds with gcc-9.4.1 (Linux). 
 
-* `cd ottest; mkdir build; cd build`
+* `cd opentext; mkdir build; cd build`
 
 To build the Backpropagation Algorithm:
 
